@@ -1,4 +1,7 @@
 # zizza_App
+#### Zizza App
+poject Files are currently in master branch
+#### App Screenshots
 <kbd>![Uploading fintech.PNG…]()</kbd>
 &nbsp;&nbsp;&nbsp;<kbd>![fintech2](https://user-images.githubusercontent.com/90906602/136979338-ac85b49d-a8a3-479f-b6f1-76652b76f51e.PNG)</kbd>
 
